@@ -1,0 +1,21 @@
+{
+    "target": "cobblemon:wynaut",
+    "moves": [
+        "1:amnesia",
+        "1:charm",
+        "1:encore",
+        "1:splash",
+        "15:counter",
+        "15:destinybond",
+        "15:mirrorcoat",
+        "15:safeguard",
+        "100:amnesia",
+        "100:charm",
+        "100:encore",
+        "100:safeguard",
+        "100:charm",
+        "100:encore",
+        "100:splash",
+        "100:tickle"
+    ]
+}

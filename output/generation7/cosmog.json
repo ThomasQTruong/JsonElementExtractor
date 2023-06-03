@@ -1,0 +1,9 @@
+{
+    "target": "cobblemon:cosmog",
+    "moves": [
+        "1:splash",
+        "23:teleport",
+        "100:splash",
+        "100:teleport"
+    ]
+}

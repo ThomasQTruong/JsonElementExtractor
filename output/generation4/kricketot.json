@@ -1,0 +1,19 @@
+{
+    "target": "cobblemon:kricketot",
+    "moves": [
+        "1:bide",
+        "1:growl",
+        "1:tackle",
+        "6:strugglebug",
+        "16:bugbite",
+        "100:strugglebug",
+        "100:terablast",
+        "100:bugbite",
+        "100:endeavor",
+        "100:mudslap",
+        "100:snore",
+        "100:stringshot",
+        "100:strugglebug",
+        "100:uproar"
+    ]
+}

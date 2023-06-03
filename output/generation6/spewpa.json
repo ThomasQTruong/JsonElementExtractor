@@ -1,0 +1,15 @@
+{
+    "target": "cobblemon:spewpa",
+    "moves": [
+        "1:harden",
+        "9:protect",
+        "100:irondefense",
+        "100:pounce",
+        "100:protect",
+        "100:strugglebug",
+        "100:terablast",
+        "100:bugbite",
+        "100:electroweb",
+        "100:irondefense"
+    ]
+}

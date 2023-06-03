@@ -1,0 +1,61 @@
+{
+    "target": "cobblemon:squawkabilly",
+    "forms": [
+        {
+            "aspects": [
+                "blue"
+            ]
+        }
+    ],
+    "moves": [
+        "1:growl",
+        "1:mimic",
+        "1:peck",
+        "6:quickattack",
+        "10:torment",
+        "13:aerialace",
+        "17:furyattack",
+        "20:taunt",
+        "24:uproar",
+        "27:copycat",
+        "30:fly",
+        "34:facade",
+        "38:swagger",
+        "42:bravebird",
+        "47:roost",
+        "52:reversal",
+        "100:doubleedge",
+        "100:finalgambit",
+        "100:flatter",
+        "100:partingshot",
+        "100:aerialace",
+        "100:aircutter",
+        "100:airslash",
+        "100:bravebird",
+        "100:endure",
+        "100:facade",
+        "100:faketears",
+        "100:fly",
+        "100:foulplay",
+        "100:gigaimpact",
+        "100:heatwave",
+        "100:helpinghand",
+        "100:hurricane",
+        "100:hyperbeam",
+        "100:hypervoice",
+        "100:pounce",
+        "100:protect",
+        "100:rest",
+        "100:reversal",
+        "100:scaryface",
+        "100:sleeptalk",
+        "100:substitute",
+        "100:sunnyday",
+        "100:tailwind",
+        "100:takedown",
+        "100:taunt",
+        "100:terablast",
+        "100:thief",
+        "100:uturn"
+    ]
+}

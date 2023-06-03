@@ -1,0 +1,10 @@
+{
+    "target": "cobblemon:blipbug",
+    "moves": [
+        "1:strugglebug",
+        "100:infestation",
+        "100:recover",
+        "100:stickyweb",
+        "100:supersonic"
+    ]
+}

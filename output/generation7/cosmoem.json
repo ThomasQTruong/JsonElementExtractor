@@ -1,0 +1,8 @@
+{
+    "target": "cobblemon:cosmoem",
+    "moves": [
+        "1:cosmicpower",
+        "1:teleport",
+        "100:cosmicpower"
+    ]
+}

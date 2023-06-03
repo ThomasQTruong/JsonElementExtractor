@@ -1,0 +1,32 @@
+{
+    "target": "cobblemon:gimmighoul",
+    "forms": [
+        {
+            "aspects": [
+                "roaming"
+            ]
+        }
+    ],
+    "moves": [
+        "1:astonish",
+        "1:tackle",
+        "100:confuseray",
+        "100:endure",
+        "100:hex",
+        "100:lightscreen",
+        "100:nastyplot",
+        "100:nightshade",
+        "100:powergem",
+        "100:protect",
+        "100:reflect",
+        "100:rest",
+        "100:shadowball",
+        "100:sleeptalk",
+        "100:substitute",
+        "100:takedown",
+        "100:terablast",
+        "100:thief",
+        "100:astonish",
+        "100:tackle"
+    ]
+}

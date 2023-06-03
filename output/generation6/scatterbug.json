@@ -1,0 +1,16 @@
+{
+    "target": "cobblemon:scatterbug",
+    "moves": [
+        "1:stringshot",
+        "1:tackle",
+        "6:stunspore",
+        "15:bugbite",
+        "100:poisonpowder",
+        "100:ragepowder",
+        "100:stunspore",
+        "100:pounce",
+        "100:strugglebug",
+        "100:terablast",
+        "100:bugbite"
+    ]
+}

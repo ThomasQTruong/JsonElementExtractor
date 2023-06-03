@@ -1,0 +1,14 @@
+{
+    "target": "cobblemon:caterpie",
+    "moves": [
+        "1:stringshot",
+        "1:tackle",
+        "15:bugbite",
+        "100:electroweb",
+        "100:bugbite",
+        "100:electroweb",
+        "100:snore",
+        "100:stringshot",
+        "100:tackle"
+    ]
+}

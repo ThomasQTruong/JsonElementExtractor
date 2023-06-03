@@ -1,0 +1,7 @@
+{
+    "target": "cobblemon:ditto",
+    "moves": [
+        "1:transform",
+        "100:transform"
+    ]
+}

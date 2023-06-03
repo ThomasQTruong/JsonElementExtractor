@@ -1,0 +1,23 @@
+{
+    "target": "cobblemon:wobbuffet",
+    "moves": [
+        "1:amnesia",
+        "1:charm",
+        "1:counter",
+        "1:destinybond",
+        "1:encore",
+        "1:mirrorcoat",
+        "1:safeguard",
+        "1:splash",
+        "100:amnesia",
+        "100:charm",
+        "100:encore",
+        "100:safeguard",
+        "100:charm",
+        "100:counter",
+        "100:destinybond",
+        "100:encore",
+        "100:mirrorcoat",
+        "100:safeguard"
+    ]
+}

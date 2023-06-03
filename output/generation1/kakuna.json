@@ -1,0 +1,11 @@
+{
+    "target": "cobblemon:kakuna",
+    "moves": [
+        "1:harden",
+        "100:bugbite",
+        "100:electroweb",
+        "100:harden",
+        "100:irondefense",
+        "100:stringshot"
+    ]
+}

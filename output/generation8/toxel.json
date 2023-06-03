@@ -1,0 +1,30 @@
+{
+    "target": "cobblemon:toxel",
+    "moves": [
+        "1:acid",
+        "1:belch",
+        "1:flail",
+        "1:growl",
+        "1:nuzzle",
+        "1:tearfullook",
+        "100:endeavor",
+        "100:metalsound",
+        "100:poweruppunch",
+        "100:attract",
+        "100:charm",
+        "100:encore",
+        "100:endure",
+        "100:facade",
+        "100:protect",
+        "100:rest",
+        "100:round",
+        "100:sleeptalk",
+        "100:snore",
+        "100:substitute",
+        "100:terablast",
+        "100:acid",
+        "100:flail",
+        "100:growl",
+        "100:nuzzle"
+    ]
+}

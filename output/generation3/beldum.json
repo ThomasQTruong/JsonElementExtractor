@@ -1,0 +1,17 @@
+{
+    "target": "cobblemon:beldum",
+    "moves": [
+        "1:tackle",
+        "1:takedown",
+        "100:irondefense",
+        "100:ironhead",
+        "100:zenheadbutt",
+        "100:headbutt",
+        "100:holdback",
+        "100:irondefense",
+        "100:ironhead",
+        "100:steelbeam",
+        "100:takedown",
+        "100:zenheadbutt"
+    ]
+}

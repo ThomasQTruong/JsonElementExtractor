@@ -1,0 +1,16 @@
+{
+    "target": "cobblemon:applin",
+    "moves": [
+        "1:astonish",
+        "1:withdraw",
+        "100:defensecurl",
+        "100:recycle",
+        "100:rollout",
+        "100:suckerpunch",
+        "100:attract",
+        "100:pounce",
+        "100:terablast",
+        "100:dracometeor",
+        "100:grassyglide"
+    ]
+}

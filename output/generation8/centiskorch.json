@@ -1,0 +1,60 @@
+{
+    "target": "cobblemon:centiskorch",
+    "forms": [
+        {
+            "aspects": [
+                "gmax"
+            ]
+        }
+    ],
+    "moves": [
+        "1:bite",
+        "1:ember",
+        "1:inferno",
+        "1:smokescreen",
+        "1:wrap",
+        "15:flamewheel",
+        "20:bugbite",
+        "25:coil",
+        "32:slam",
+        "39:firespin",
+        "46:crunch",
+        "53:firelash",
+        "60:lunge",
+        "67:burnup",
+        "100:attract",
+        "100:brutalswing",
+        "100:bugbuzz",
+        "100:crunch",
+        "100:endure",
+        "100:facade",
+        "100:fireblast",
+        "100:firefang",
+        "100:firespin",
+        "100:flamethrower",
+        "100:flareblitz",
+        "100:gigaimpact",
+        "100:heatcrash",
+        "100:heatwave",
+        "100:hyperbeam",
+        "100:leechlife",
+        "100:mysticalfire",
+        "100:overheat",
+        "100:powerwhip",
+        "100:protect",
+        "100:rest",
+        "100:round",
+        "100:scald",
+        "100:sleeptalk",
+        "100:snore",
+        "100:solarbeam",
+        "100:substitute",
+        "100:sunnyday",
+        "100:thunderfang",
+        "100:venoshock",
+        "100:willowisp",
+        "100:xscissor",
+        "100:scorchingsands",
+        "100:skittersmack"
+    ]
+}

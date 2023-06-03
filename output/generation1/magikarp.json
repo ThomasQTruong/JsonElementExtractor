@@ -1,0 +1,17 @@
+{
+    "target": "cobblemon:magikarp",
+    "moves": [
+        "1:splash",
+        "15:tackle",
+        "30:flail",
+        "100:bounce",
+        "100:hydropump",
+        "100:bounce",
+        "100:celebrate",
+        "100:flail",
+        "100:happyhour",
+        "100:hydropump",
+        "100:splash",
+        "100:tackle"
+    ]
+}

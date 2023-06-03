@@ -1,0 +1,12 @@
+{
+    "target": "cobblemon:weedle",
+    "moves": [
+        "1:poisonsting",
+        "1:stringshot",
+        "15:bugbite",
+        "100:bugbite",
+        "100:electroweb",
+        "100:poisonsting",
+        "100:stringshot"
+    ]
+}

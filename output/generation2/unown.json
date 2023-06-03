@@ -1,0 +1,8 @@
+{
+    "target": "cobblemon:unown",
+    "moves": [
+        "1:hiddenpower",
+        "100:hiddenpower",
+        "100:hiddenpower"
+    ]
+}
