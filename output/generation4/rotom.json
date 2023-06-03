@@ -4,6 +4,10 @@
         {
             "aspects": [
                 "heat"
+            ],
+            "moves": [
+                "1:overheat",
+                "form_change:overheat"
             ]
         }
     ],

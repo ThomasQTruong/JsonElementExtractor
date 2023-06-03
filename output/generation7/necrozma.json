@@ -4,6 +4,9 @@
         {
             "aspects": [
                 "dusk-mane"
+            ],
+            "moves": [
+                "form_change:sunsteelstrike"
             ]
         }
     ],

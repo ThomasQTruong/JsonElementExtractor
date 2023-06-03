@@ -4,6 +4,9 @@
         {
             "aspects": [
                 "crowned"
+            ],
+            "moves": [
+                "form_change:behemothbash"
             ]
         }
     ],

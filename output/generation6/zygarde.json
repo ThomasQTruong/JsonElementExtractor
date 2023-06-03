@@ -4,6 +4,21 @@
         {
             "aspects": [
                 "10%"
+            ],
+            "moves": [
+                "100:bind",
+                "100:dig",
+                "100:dragonbreath",
+                "100:dragondance",
+                "100:dragonpulse",
+                "100:extremespeed",
+                "100:glare",
+                "100:haze",
+                "100:landswrath",
+                "100:outrage",
+                "100:safeguard",
+                "100:sandstorm",
+                "100:thousandarrows"
             ]
         }
     ],
