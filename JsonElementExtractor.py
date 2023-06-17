@@ -81,7 +81,7 @@ def extract_from_json(json_path) -> dict:
   extracted_data = {}
 
   # Open and laod data.
-  with open(json_path, "r") as opened_file:
+  with open(json_path, "r", encoding = "utf-8") as opened_file:
     file_data = json.load(opened_file)
 
     # For every element to extract.
@@ -160,7 +160,7 @@ def write_output_json(json_path, extracted_data):
     os.makedirs(os.path.dirname(json_path))
 
   # Open/create json file.
-  with open(json_path, "w") as output_file:
+  with open(json_path, "w", encoding = "utf-8") as output_file:
     json.dump(extracted_data, output_file, indent = INDENTS)
 
 
